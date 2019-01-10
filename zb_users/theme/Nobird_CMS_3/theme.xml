@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme version="php">
+<id>Nobird_CMS_3</id>
+<name>CMS主题3</name>
+<url>http://www.rainbowsoft.org/</url>
+<note>Nobird的第三款CMS主题</note>
+<description>一款简单的CMS类型主题。博客CMS均可。</description>
+<path>main.php</path>
+<include>include.php</include>
+<level>1</level>
+<author>
+  <name>Nobird</name>
+  <email>admin@birdol.com</email>
+  <url>http://www.birdol.com/</url>
+</author>
+<source>
+  <name>Nobird</name>
+  <email>admin@birdol.com</email>
+  <url>http://www.birdol.com/</url>
+</source>
+<adapted>150101</adapted>
+<version>3.1</version>
+<pubdate>2013-07-07</pubdate>
+<modified>2017-10-09</modified>
+<price>66</price>
+<phpver>5.2</phpver>
+<advanced>
+  <dependency>FirstIMG</dependency>
+  <rewritefunctions></rewritefunctions>
+  <existsfunctions></existsfunctions>
+  <conflict>ajaxTemplate</conflict>
+</advanced>
+<sidebars>
+  <sidebar1></sidebar1>
+  <sidebar2></sidebar2>
+  <sidebar3></sidebar3>
+  <sidebar4></sidebar4>
+  <sidebar5></sidebar5>
+</sidebars>
+</theme>
